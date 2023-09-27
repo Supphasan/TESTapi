@@ -4,5 +4,5 @@
 A new Flutter project.
 
 
-<img src="assets/image/login.png" width="550" height="300">
+<img src="assets/images/login.png" width="550" height="300">
 #
